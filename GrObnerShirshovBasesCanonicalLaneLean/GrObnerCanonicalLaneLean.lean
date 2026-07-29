@@ -1,0 +1,14 @@
+import GrObnerShirshovBasesCanonicalLaneLean.GrObnerObject
+import GrObnerShirshovBasesCanonicalLaneLean.BridgeLemmas
+import GrObnerShirshovBasesCanonicalLaneLean.GateLemmas
+import GrObnerShirshovBasesCanonicalLaneLean.FinalTheorem
+import GrObnerShirshovBasesCanonicalLaneLean.BasisStructure
+import GrObnerShirshovBasesCanonicalLaneLean.CompositionDiamond
+
+namespace HautevilleHouse
+namespace GrObnerShirshovBasesCanonicalLaneLean
+
+-- Aggregate import list for the package
+
+end GrObnerShirshovBasesCanonicalLaneLean
+end HautevilleHouse
